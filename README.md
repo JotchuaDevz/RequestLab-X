@@ -96,7 +96,7 @@ El desarrollador no se hace responsable del uso indebido de la aplicación ni de
 
 ## 👤 Autor
 
-Desarrollado por **Jotchua Ortiz**
+Desarrollado por **t.me/Jotchua_DevzZ - t.me/BlackHanzoX - t.me/DarkZFull**
 
 ---
 

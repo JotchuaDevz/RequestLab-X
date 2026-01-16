@@ -24,14 +24,14 @@ Está pensada para usuarios avanzados, pruebas de laboratorio y personas que nec
 
 RequestLab X cuenta con varias formas de exportar servidores:
 
-### 🛠 Archivo `.pitogod`
+### 🛠 Archivo `.labx`
 Incluye funciones avanzadas como:
 - ⏳ Expiración de configuración
 - 🔒 Bloqueo de servidor
 - 🚫 Bloqueo por aplicación
 - 🖼️ Banner personalizado
 
-### 🛠 URI `jt-pitogod://`
+### 🛠 URI `jt-labx://`
 - Exportación mediante enlace
 - 🔒 Bloqueo de servidor
 - 📲 Importación rápida con un solo toque

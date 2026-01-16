@@ -1,0 +1,7 @@
+{
+  "version": "1.0.4",
+  "versionCode": 4,
+  "downloadUrl": "https://github.com/tuusuario/turepo/releases/download/v1.2.0/app-release.apk",
+  "releaseNotes": "- Corrección de bugs\n- Mejoras de rendimiento\n- Error De Importacion De Uri Arreglado",
+  "required": true
+}

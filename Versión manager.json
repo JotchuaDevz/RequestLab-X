@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "versionCode": 6,
+  "version": "1.0.5",
+  "versionCode": 5,
   "downloadUrl": "https://github.com/JotchuaDevz/RequestLab-X/releases/download/1.0.5/app-universal-release.apk",
   "releaseNotes": "- Corrección de bugs\n- Mejoras de rendimiento\n- Error De Importacion De Uri Arreglado\n- Error De Selecicon De Servidor Corregido",
   "required": true
